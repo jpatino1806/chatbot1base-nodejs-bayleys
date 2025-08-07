@@ -7,7 +7,7 @@ npm install node-html-to-image
 
 Crear carpeta llamado src/index.js
 
-node src/index.js
+node --watch src/index.js
 
 para audio
 en: https://www.gyan.dev/ffmpeg/builds/
